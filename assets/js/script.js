@@ -499,4 +499,4 @@ console.log('%cInterested in cybersecurity? Let\'s connect!', 'font-size: 14px; 
 console.log('%cLinkedIn: https://www.linkedin.com/in/guillermo-encinas-romera', 'font-size: 12px; color: #0066cc;');
 console.log('%cGitHub: https://github.com/gencinasr-tech', 'font-size: 12px; color: #0066cc;');
 
-// Made with Bob
+// Made by Chatie
