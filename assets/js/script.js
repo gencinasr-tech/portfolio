@@ -9,6 +9,7 @@ const translations = {
         'Educación': 'Educación',
         'Certificaciones': 'Certificaciones',
         'Habilidades': 'Habilidades',
+        'GitHub': 'GitHub',
         'Contacto': 'Contacto',
         
         // Hero Section
@@ -171,6 +172,17 @@ const translations = {
         'Certificación planificada en redes Cisco y soporte técnico.': 'Planned certification in Cisco networking and technical support.',
         'Redes Cisco': 'Cisco Networking',
         'Soporte Técnico': 'Technical Support',
+        
+        // GitHub Repositories Section
+        'Repositorios GitHub': 'GitHub Repositories',
+        'Explora mis repositorios y proyectos de código abierto': 'Explore my repositories and open source projects',
+        'Herramienta automatizada de reconocimiento para bugbunty': 'Automated reconnaissance tool for bugbunty',
+        'Scraper automatizado para Wallapop desarrollado en Python': 'Automated scraper for Wallapop developed in Python',
+        'Proyecto intermodular de desarrollo web': 'Intermodular web development project',
+        'Proyecto de bases de datos NoSQL con JavaScript': 'NoSQL database project with JavaScript',
+        'Ejercicios y katas de programación en Python': 'Programming exercises and katas in Python',
+        'Ver Proyecto': 'View Project',
+        'Ver Todos los Repositorios': 'View All Repositories',
         
         // Skills Section
         'Habilidades Técnicas': 'Technical Skills',
